@@ -1,7 +1,4 @@
  👋 Hi there, I’m Kevin! @kvnmcn
-- 🍄 I'm currently working on creating userStyles to further my study on CSS.
-- 🥓 e.e
-- 🍓
 
 
 <!---
