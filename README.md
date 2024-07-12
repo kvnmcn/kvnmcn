@@ -1,4 +1,6 @@
- 👋 Hi there, I’m Kevin! @kvnmcn
+ ### 👋 Hi there, I’m Kevin!
+
+ [![GitHub Streak](https://streak-stats.demolab.com?user=kvnmcn&theme=github-dark-dimmed&border_radius=10)](https://git.io/streak-stats)
 
 
 <!---
