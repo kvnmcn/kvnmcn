@@ -4,7 +4,7 @@
 in the meantime, check my side projects?
 <h1></h1>
 <h2>GitHub Stats</h2>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kvnmcn&theme=nord&hide_border=true&border_radius=10"/></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kvnmcn&theme=catppuccin-macchiato&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvnmcn&layout=donut&theme=nord&hide_border=true&border_radius=10"/></a>
 </div>
 
